@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Map-Dashboard-App/static/css/main.2e662a65.css",
+    "main.js": "/Map-Dashboard-App/static/js/main.61a0ecea.js",
+    "index.html": "/Map-Dashboard-App/index.html",
+    "main.2e662a65.css.map": "/Map-Dashboard-App/static/css/main.2e662a65.css.map",
+    "main.61a0ecea.js.map": "/Map-Dashboard-App/static/js/main.61a0ecea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e662a65.css",
+    "static/js/main.61a0ecea.js"
+  ]
+}
